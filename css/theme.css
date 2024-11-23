@@ -4633,7 +4633,6 @@ body {
   background:      -o-linear-gradient(90deg, #5C258D 10%, #4389A2 90%); /* Opera 11.10+ */
   background:         linear-gradient(90deg, #5C258D 10%, #4389A2 90%); /* W3C */
 
-  /*background: #663fb5 url(../img/bg-header.jpg) no-repeat center bottom;*/
   background-image: url("../img/background.png");
 
   background-size: 100% 110%;
